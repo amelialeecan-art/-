@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "군월급",
+    "slug": "gunwolgup",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "gunwolgup",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "backgroundColor": "#0B1014",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gunwolgup.app"
+    },
+    "android": {
+      "package": "com.gunwolgup.app"
+    }
+  }
+}
